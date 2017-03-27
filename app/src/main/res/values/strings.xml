@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DataBase</string>
+
+    <string-array name="state">
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka </item>
+        <item>Kerala</item>
+        <item>Megalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttarakhand</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+        <item>Maharastra</item>
+        <item>Madhya Pradesh</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Lakhswadeep</item>
+        <item>Puducherry</item>
+
+
+
+
+
+    </string-array>
+    <string-array name="category">
+        <item>W.S.</item>
+        <item>N.P.</item>
+        <item>B.S.</item>
+    </string-array>
+</resources>
